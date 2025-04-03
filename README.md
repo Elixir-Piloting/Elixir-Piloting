@@ -1,12 +1,18 @@
 # 👋 Hello World! I'm Stephen Nzioka
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+in+Training;Business+Information+Technology+Student;Digital+Artist+%26+Graphics+Designer;Gaming+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=800&lines=Full-Stack+Developer+in+Training;Business+Information+Technology+Student;Digital+Artist+%26+Graphics+Designer;Gaming+Enthusiast" alt="Typing SVG" />
 </div>
 
-<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
+
+
+
+
+
+
 
 ## 🧑‍💻 About Me
+<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
 
 - 🎓 Currently studying **Business Information Technology**
 - 🌱 Learning the **MERN stack** (MongoDB, Express, React, Node.js)
