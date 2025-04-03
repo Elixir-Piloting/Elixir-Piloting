@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Steven Zioka
+# 👋 Hello World! I'm Stephen Nzioka
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+in+Training;Business+Information+Technology+Student;Digital+Artist+%26+Graphics+Designer;Gaming+Enthusiast" alt="Typing SVG" />
