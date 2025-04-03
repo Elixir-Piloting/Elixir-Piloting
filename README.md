@@ -59,7 +59,7 @@
 
 <div align="center">
   <a href="https://github.com/Elixir-Piloting/MERN-TODO">
-    <img src="https://readme-components.vercel.app/api?component=experience&company=COMING%20SOON&role=MERN%20Project&duration=2025&location=Stay%20Tuned&description=My%20first%20full-stack%20web%20application%20using%20the%20MERN%20stack." />
+    <img src="https://readme-components.vercel.app/api?component=experience&company=TODO%20&role=MERN%20Project&duration=2025&location=Stay%20Tuned&description=My%20first%20full-stack%20web%20application%20using%20the%20MERN%20stack." />
   </a>
 </div>
 
