@@ -1,108 +1,107 @@
-# 👋 Hello World! I'm Stephen Nzioka
+# 👋 Hey, I'm Stephen Nzioka
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=800&lines=Full-Stack+Developer+in+Training;Business+Information+Technology+Student;Digital+Artist+%26+Graphics+Designer;Gaming+Enthusiast" alt="Typing SVG" />
-</div>
 
-
-
-
-
-
-
-
-## 🧑‍💻 About Me
-<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
-
-- 🎓 Currently studying **Business Information Technology**
-- 🌱 Learning the **MERN stack** (MongoDB, Express, React, Node.js)
-- 🎨 Passionate about **digital art** and **graphic design**
-- 🎮 Avid gamer in my free time
-- 💼 Seeking opportunities to collaborate on MERN projects
-
-<br clear="right"/>
-
-## 🛠️ Tech Stack & Learning Path
-
-<div align="center">
-  
-### Currently Working With:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Currently Learning:
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Design Skills:
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### Full-stack dev focused on fast, revenue-driven apps
 
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="Coding desk animation" />
-</div>
+---
 
-## 📊 GitHub Stats
+## ⚡ What I Do
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elixir-Piloting&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elixir-Piloting&theme=radical" alt="GitHub Streak" />
-</div>
+I build and ship products fast.
 
-## 🌟 Featured Projects
+Not just code that works - products that:
+- solve real problems  
+- look clean from the first glance  
+- and actually make money  
 
-<div align="center">
-  <a href="https://github.com/Elixir-Piloting/MERN-TODO">
-    <img src="https://readme-components.vercel.app/api?component=experience&company=TODOLIST%20&role=MERN%20Project&duration=2025&location=Stay%20Tuned&description=My%20first%20full-stack%20web%20application%20using%20the%20MERN%20stack." />
-  </a>
-</div>
+I focus heavily on **AI integration**, **frontend experience**, and **speed of execution**.
 
-## 🎨 My Digital Art Gallery
+If it doesn’t ship, it doesn’t matter.
 
-I'm passionate about digital art and graphic design! Below are some links to where I'll showcase my work:
-- 🖼️ Portfolio: https://www.respondly.site/
-- 🎨 Behance: Coming Soon!
-- 📷 Instagram: Coming Soon!
+---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPeQ5Uz4gU6ID5K/giphy.gif" width="400" alt="Digital Art Animation" />
-</div>
+## 🧠 Current Stack
 
-## 🤝 Let's Connect!
+- **Frontend:** Next.js, React  
+- **Backend:** Node.js, Prisma  
+- **Auth & Infra:** BetterAuth, Vercel, Cloudflare R2  
+- **AI:** OpenRouter (LLMs, automation workflows)  
+- **Other:** APIs, scraping pipelines, custom tooling  
 
-I'm looking to collaborate on any MERN stack projects! Although I'm still in the learning phase, I'm eager to contribute and grow my skills.
+---
 
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-stevenzioka860@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stevenzioka860@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming_Soon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-Coming_Soon-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-000000?style=for-the-badge&logo=notion&logoColor=white)](#)
+## 🚀 Featured Projects
 
-</div>
+### 🔹 Freyo - Freelance OS
+> Find the *right* jobs without wasting hours scrolling
 
-## ⚡ Fun Facts
+- AI-powered job scoring across multiple platforms  
+- Aggregates jobs from Jobicy, Remotive, WWR, Freelancer, and more  
+- **700+ users**  
+- **$2300+ revenue generated**
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="Fun Facts Animation" />
-</div>
+**Stack:** Next.js, OpenRouter, multiple job APIs, PDFShift  
 
-- 🎨 I spend hours perfecting gradients in my digital artwork
-- 🎮 My gaming setup is more organized than my room
-- 💻 I debug in my dreams sometimes
-- 🌱 Learning to code has made me better at solving real-world problems
-- 🍕 I can code for hours but can't decide what to eat for dinner
+---
+
+### 🔹 Keeps
+> Your second brain for ideas, tools, and late-night thoughts
+
+- Save ideas, links, and dev resources instantly  
+- Accessible from any device  
+- Fully open-source  
+
+**Stack:** Next.js, Prisma, BetterAuth, Cloudflare R2  
+
+---
+
+### 🔹 Instagram Sync API
+> Clean API for integrating Instagram content anywhere
+
+- Fetch profiles and posts via structured API  
+- Built for devs who don’t want to fight the official API  
+- **15 active test users**
+
+**Stack:** Next.js, Prisma, Meta GraphQL API, GitHub Actions  
+
+---
+
+## 🎯 What I’m Focused On
+
+- Building SaaS that solves friction-heavy problems  
+- Integrating AI where it actually improves UX  
+- Shipping faster without sacrificing quality  
+- Turning ideas into revenue  
+
+---
+
+## 🤝 Work With Me
+
+I’m open to:
+- Client projects (web apps, SaaS, AI integrations)  
+- Collaborations with builders  
+- Interesting product ideas worth shipping  
+
+If you’ve got something in mind, let’s build it.
+
+📩 **Email:** stevenzioka860@gmail.com  
+
+---
+
+## ⚡ Fun Truth
+
+I don’t over-engineer.  
+I build, test, ship, iterate.
+
+Because in this game, speed beats perfection.
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Elixir-Piloting&color=blueviolet&style=flat-square" alt="Profile Views" />
-  
-  <h4>"The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie</h4>
+
+*"Ideas are cheap. Execution is everything."*
+
 </div>
