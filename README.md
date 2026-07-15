@@ -1,107 +1,67 @@
-# 👋 Hey, I'm Stephen Nzioka
+<h1 align="center">Hey, I'm Stephen 👋</h1>
+<p align="center">Full-stack dev focused on fast, revenue-driven products</p>
 
-<div align="center">
-
-### Full-stack dev focused on fast, revenue-driven apps
-
-</div>
-
----
-
-## ⚡ What I Do
-
-I build and ship products fast.
-
-Not just code that works - products that:
-- solve real problems  
-- look clean from the first glance  
-- and actually make money  
-
-I focus heavily on **AI integration**, **frontend experience**, and **speed of execution**.
-
-If it doesn’t ship, it doesn’t matter.
+<p align="center">
+  <img src="https://shieldcn.dev/badge/focus-shipping_fast-black.svg?logo=false" alt="focus" />
+  <img src="https://shieldcn.dev/badge/base-Nairobi,_Kenya-black.svg?logo=false" alt="location" />
+  <img src="https://shieldcn.dev/badge/status-open_for_work-black.svg?logo=false" alt="status" />
+</p>
 
 ---
 
-## 🧠 Current Stack
+### ⚡ What I do
 
-- **Frontend:** Next.js, React  
-- **Backend:** Node.js, Prisma  
-- **Auth & Infra:** BetterAuth, Vercel, Cloudflare R2  
-- **AI:** OpenRouter (LLMs, automation workflows)  
-- **Other:** APIs, scraping pipelines, custom tooling  
+I build products, not just code — things that solve a real problem, look clean from first glance, and are built to make money. I care about **speed of execution** as much as craft: if it doesn't ship, it doesn't matter.
 
----
-
-## 🚀 Featured Projects
-
-### 🔹 Freyo - Freelance OS
-> Find the *right* jobs without wasting hours scrolling
-
-- AI-powered job scoring across multiple platforms  
-- Aggregates jobs from Jobicy, Remotive, WWR, Freelancer, and more  
-- **700+ users**  
-- **$2300+ revenue generated**
-
-**Stack:** Next.js, OpenRouter, multiple job APIs, PDFShift  
+My work splits across three lanes:
+- **Client web apps** — SaaS, dashboards, AI-integrated products
+- **Desktop apps** — small, fast, native-feeling tools built with Tauri and Rust
+- **Indie products** — ideas I build, ship, and iterate on myself
 
 ---
 
-### 🔹 Keeps
-> Your second brain for ideas, tools, and late-night thoughts
+### 🧠 Current stack
 
-- Save ideas, links, and dev resources instantly  
-- Accessible from any device  
-- Fully open-source  
-
-**Stack:** Next.js, Prisma, BetterAuth, Cloudflare R2  
-
----
-
-### 🔹 Instagram Sync API
-> Clean API for integrating Instagram content anywhere
-
-- Fetch profiles and posts via structured API  
-- Built for devs who don’t want to fight the official API  
-- **15 active test users**
-
-**Stack:** Next.js, Prisma, Meta GraphQL API, GitHub Actions  
+<p>
+  <img src="https://shieldcn.dev/badge/Next.js-black.svg?logo=nextdotjs" alt="Next.js" />
+  <img src="https://shieldcn.dev/badge/React-black.svg?logo=react" alt="React" />
+  <img src="https://shieldcn.dev/badge/TypeScript-black.svg?logo=typescript" alt="TypeScript" />
+  <img src="https://shieldcn.dev/badge/Node.js-black.svg?logo=nodedotjs" alt="Node.js" />
+  <img src="https://shieldcn.dev/badge/Prisma-black.svg?logo=prisma" alt="Prisma" />
+  <br/>
+  <img src="https://shieldcn.dev/badge/Rust-black.svg?logo=rust" alt="Rust" />
+  <img src="https://shieldcn.dev/badge/Tauri-black.svg?logo=tauri" alt="Tauri" />
+  <img src="https://shieldcn.dev/badge/Vercel-black.svg?logo=vercel" alt="Vercel" />
+  <img src="https://shieldcn.dev/badge/Cloudflare-black.svg?logo=cloudflare" alt="Cloudflare" />
+  <img src="https://shieldcn.dev/badge/OpenRouter-black.svg?logo=false" alt="OpenRouter" />
+</p>
 
 ---
 
-## 🎯 What I’m Focused On
+### 🖥️ Desktop apps
 
-- Building SaaS that solves friction-heavy problems  
-- Integrating AI where it actually improves UX  
-- Shipping faster without sacrificing quality  
-- Turning ideas into revenue  
+Alongside client and web work, I build small native desktop tools — voice dictation, text expansion, and utility apps — using **Tauri + Rust** for the backend and **React** for the UI. I like this space because it forces tight, fast, no-bloat software: no browser tab, no subscription nag, just a tool that does one thing well.
 
 ---
 
-## 🤝 Work With Me
+### 🎯 What I'm focused on
 
-I’m open to:
-- Client projects (web apps, SaaS, AI integrations)  
-- Collaborations with builders  
-- Interesting product ideas worth shipping  
-
-If you’ve got something in mind, let’s build it.
-
-📩 **Email:** stevenzioka860@gmail.com  
+- Building SaaS that removes friction from a real workflow
+- Integrating AI where it actually improves the UX, not just for the sake of it
+- Shipping fast without cutting corners on the parts users actually feel
+- Turning side projects into real, sustainable revenue
 
 ---
 
-## ⚡ Fun Truth
+### 🤝 Work with me
 
-I don’t over-engineer.  
-I build, test, ship, iterate.
+Open to:
+- Client projects — web apps, SaaS, AI integrations
+- Desktop app builds
+- Collaborations with other builders
 
-Because in this game, speed beats perfection.
+📩 **stevenzioka860@gmail.com**
 
 ---
 
-<div align="center">
-
-*"Ideas are cheap. Execution is everything."*
-
-</div>
+<p align="center"><i>"Ideas are cheap. Execution is everything."</i></p>
